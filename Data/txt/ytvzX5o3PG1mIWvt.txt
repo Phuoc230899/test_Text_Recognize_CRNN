@@ -1,0 +1,1 @@
+string.digits, k=16))

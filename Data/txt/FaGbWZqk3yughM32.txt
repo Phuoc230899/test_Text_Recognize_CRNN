@@ -1,0 +1,1 @@
+detector.predict(Image.fromarray(result))
